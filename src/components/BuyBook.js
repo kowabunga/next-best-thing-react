@@ -16,7 +16,9 @@ export default class BuyBook extends Component {
     e.preventDefault();
     alert('Your request has been made!');
     // controlled form component reset
-    this.setState({ form: {} });
+    this.setState({
+      form: { name: '', email: '', confirm: '', confirmEmail: '' },
+    });
   };
 
   handleChange = e => {
@@ -25,7 +27,7 @@ export default class BuyBook extends Component {
   };
 
   render() {
-    const { name, email, confirmEmail } = this.state;
+    const { name, email, confirmEmail } = this.state.form;
     return (
       <section id='buy-book'>
         <div className='want-to-purchase'>
