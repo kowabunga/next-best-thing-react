@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48794b047469a7d4d9453025c38c9e7f",
+    "revision": "1a8cff37121ce7cdcd28c97049a2599f",
     "url": "/next-best-thing-react/index.html"
   },
   {
-    "revision": "dfb2a19f208ba478b05f",
+    "revision": "232c598606d34233e8a2",
     "url": "/next-best-thing-react/static/css/main.bac587d2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/next-best-thing-react/static/js/2.048a8962.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dfb2a19f208ba478b05f",
-    "url": "/next-best-thing-react/static/js/main.d3cd473d.chunk.js"
+    "revision": "232c598606d34233e8a2",
+    "url": "/next-best-thing-react/static/js/main.04ed58b2.chunk.js"
   },
   {
     "revision": "1ad96e452f008620ee89",

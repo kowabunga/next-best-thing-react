@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/next-best-thing-react/static/css/main.bac587d2.chunk.css",
-    "main.js": "/next-best-thing-react/static/js/main.d3cd473d.chunk.js",
-    "main.js.map": "/next-best-thing-react/static/js/main.d3cd473d.chunk.js.map",
+    "main.js": "/next-best-thing-react/static/js/main.04ed58b2.chunk.js",
+    "main.js.map": "/next-best-thing-react/static/js/main.04ed58b2.chunk.js.map",
     "runtime-main.js": "/next-best-thing-react/static/js/runtime-main.49ecb906.js",
     "runtime-main.js.map": "/next-best-thing-react/static/js/runtime-main.49ecb906.js.map",
     "static/js/2.048a8962.chunk.js": "/next-best-thing-react/static/js/2.048a8962.chunk.js",
     "static/js/2.048a8962.chunk.js.map": "/next-best-thing-react/static/js/2.048a8962.chunk.js.map",
     "index.html": "/next-best-thing-react/index.html",
-    "precache-manifest.7cc2cdda45cfb11213a46fdb11cbd794.js": "/next-best-thing-react/precache-manifest.7cc2cdda45cfb11213a46fdb11cbd794.js",
+    "precache-manifest.60cd4ac9ffa358065c8ad27bb52911d4.js": "/next-best-thing-react/precache-manifest.60cd4ac9ffa358065c8ad27bb52911d4.js",
     "service-worker.js": "/next-best-thing-react/service-worker.js",
     "static/css/main.bac587d2.chunk.css.map": "/next-best-thing-react/static/css/main.bac587d2.chunk.css.map",
     "static/js/2.048a8962.chunk.js.LICENSE.txt": "/next-best-thing-react/static/js/2.048a8962.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.49ecb906.js",
     "static/js/2.048a8962.chunk.js",
     "static/css/main.bac587d2.chunk.css",
-    "static/js/main.d3cd473d.chunk.js"
+    "static/js/main.04ed58b2.chunk.js"
   ]
 }
