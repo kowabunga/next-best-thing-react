@@ -37,6 +37,7 @@ p {
   justify-content: space-around;
   background-color: var(--main-blue-color);
   height: 5rem;
+  transition: 0.3s ease-in;
 }
 
 .navbar-items.responsive {
@@ -48,10 +49,12 @@ p {
   align-items: center;
   height: 100vh;
   width: 100vw;
+  transition: 0.3s ease-in;
 }
 
 .navbar-items.responsive .navbar-item {
-  display: block;
+  opacity: 1;
+  /* transition: 0.3s ease-in; */
 }
 
 .nav-link {
@@ -282,7 +285,7 @@ p {
 
 @media (max-width: 800px) {
   .navbar-item {
-    display: none;
+    opacity: 0;
   }
 
   .icon {
