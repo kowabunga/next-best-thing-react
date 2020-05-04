@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/next-best-thing-react/static/css/main.bac587d2.chunk.css",
+    "main.css": "/next-best-thing-react/static/css/main.bffc9de0.chunk.css",
     "main.js": "/next-best-thing-react/static/js/main.04ed58b2.chunk.js",
     "main.js.map": "/next-best-thing-react/static/js/main.04ed58b2.chunk.js.map",
     "runtime-main.js": "/next-best-thing-react/static/js/runtime-main.49ecb906.js",
@@ -8,9 +8,9 @@
     "static/js/2.048a8962.chunk.js": "/next-best-thing-react/static/js/2.048a8962.chunk.js",
     "static/js/2.048a8962.chunk.js.map": "/next-best-thing-react/static/js/2.048a8962.chunk.js.map",
     "index.html": "/next-best-thing-react/index.html",
-    "precache-manifest.60cd4ac9ffa358065c8ad27bb52911d4.js": "/next-best-thing-react/precache-manifest.60cd4ac9ffa358065c8ad27bb52911d4.js",
+    "precache-manifest.fce4d01142a10b27b44b6ff4766f62ac.js": "/next-best-thing-react/precache-manifest.fce4d01142a10b27b44b6ff4766f62ac.js",
     "service-worker.js": "/next-best-thing-react/service-worker.js",
-    "static/css/main.bac587d2.chunk.css.map": "/next-best-thing-react/static/css/main.bac587d2.chunk.css.map",
+    "static/css/main.bffc9de0.chunk.css.map": "/next-best-thing-react/static/css/main.bffc9de0.chunk.css.map",
     "static/js/2.048a8962.chunk.js.LICENSE.txt": "/next-best-thing-react/static/js/2.048a8962.chunk.js.LICENSE.txt",
     "static/media/author.png": "/next-best-thing-react/static/media/author.815d15ee.png",
     "static/media/creativity-flow.png": "/next-best-thing-react/static/media/creativity-flow.5d29c044.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.49ecb906.js",
     "static/js/2.048a8962.chunk.js",
-    "static/css/main.bac587d2.chunk.css",
+    "static/css/main.bffc9de0.chunk.css",
     "static/js/main.04ed58b2.chunk.js"
   ]
 }
