@@ -4,6 +4,7 @@
   box-sizing: border-box;
   font-family: 'PT Sans', sans-serif;
   text-align: center;
+  line-height: 150%;
 }
 
 :root {
@@ -63,6 +64,13 @@ p {
   color: white;
   transition: 0.2s ease-out;
 }
+#splash,
+#about-book,
+#why-book,
+#about-author,
+#buy-book {
+  min-height: 100vh;
+}
 
 #splash,
 #why-book {
@@ -102,7 +110,7 @@ p {
 #splash {
   display: flex;
   align-items: center;
-  margin-top: 5rem;
+  margin-top: 3rem;
   padding: 1em;
 }
 
@@ -146,7 +154,7 @@ p {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 30em;
+  /* min-height: 30em; */
   padding: 1em;
 }
 
